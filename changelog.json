@@ -1,5 +1,34 @@
 [
   {
+    "version": "2.1.0",
+    "date": "2026-11-19",
+    "vault": 51,
+    "new": {
+      "de": [
+        "Erfahrungspunkte unter Charakter › Stufen: Summe, Aufstiegstempo (langsam/mittel/schnell), „+ EP der Sitzung“, Schwelle der nächsten Stufe und der Hinweis „Stufe +1 möglich“ — aufsteigen bleibt dein Knopf.",
+        "Negative Stufen (vorübergehend und dauerhaft) im TP-Blatt von Spielen › Status: −1 auf Angriffe, KMB, KMV, Rettungswürfe, Fertigkeiten, Attributswürfe und Zauberstufe, −5 TP je Stufe, mit Herleitung; „tot“, wenn sie die Trefferwürfel erreichen.",
+        "Attributsschaden und Attributsentzug getrennt, wie im Grundregelwerk: Schaden kostet −1 je 2 Punkte am Modifikator (der Wert bleibt), Entzug senkt den Wert; Hinweis bei Schaden ≥ Wert (bewusstlos, bei Konstitution tot).",
+        "Heldenpunkte (Regelset › Heldenpunkte): Zähler 0–3 in Spielen › Status mit allen Einsätzen aus den Expertenregeln zum Antippen.",
+        "Konzentration unter Charakter zählt jetzt auch Boni aus Wesenszügen und Talenten mit (z. B. Riftwarden-Waise +2)."
+      ],
+      "en": [
+        "Experience points under Character › Levels: total, advancement track (slow/medium/fast), “+ session XP”, the next level’s threshold and a “Level +1 possible” hint — levelling stays your tap.",
+        "Negative levels (temporary and permanent) in the HP sheet of Play › Status: −1 on attacks, CMB, CMD, saves, skills, ability checks and caster level, −5 HP per level, with breakdown; “dead” once they reach the Hit Dice.",
+        "Ability damage and ability drain are now separate, as in the Core Rulebook: damage costs −1 on the modifier per 2 points (the score stays), drain lowers the score; a note when damage reaches the score (unconscious, dead for Constitution).",
+        "Hero points (rule set › Hero Points): a 0–3 counter in Play › Status with every use from the Advanced Player’s Guide to tap.",
+        "Concentration under Character now counts bonuses from traits and feats too (e.g. Riftwarden Orphan +2)."
+      ]
+    },
+    "characters": {
+      "de": [
+        "Tresor v51: ein bisher eingetragener Attributsschaden senkte den Wert — er steht jetzt unter „Attributsentzug“, die Zahlen bleiben gleich. War es Schaden, trag ihn im Attribut unter „Attributsschaden“ um. Die App legt vor der Umstellung eine Momentaufnahme an (Einstellungen › Backups)."
+      ],
+      "en": [
+        "Vault v51: ability damage entered so far lowered the score — it now sits under “Ability drain”, the numbers stay the same. If it was damage, move it to “Ability damage” in the ability. The app takes a snapshot before converting (Settings › Backups)."
+      ]
+    }
+  },
+  {
     "version": "2.0.0",
     "date": "2026-11-19",
     "vault": 50,
