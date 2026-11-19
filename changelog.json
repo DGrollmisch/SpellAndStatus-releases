@@ -1,5 +1,28 @@
 [
   {
+    "version": "2.2.1",
+    "date": "2026-11-19",
+    "vault": 52,
+    "new": {
+      "de": [
+        "196 weitere Zauber rechnen beim Wirken mit: der Effekt bringt seine Boni aus dem eigenen Zaubertext mit (z. B. Schockschild +2 RK, Selbstverkleidung +10 Verkleiden, Flug des Raben Fluggeschwindigkeit 50) und die Herleitung nennt den Zauber. Bedingte Boni („gegen Furcht“) stehen als Zeile daneben und zählen nicht automatisch.",
+        "⚡ Bereit kennt jetzt die Tagesvorräte aller Grundklassen (50 weitere): u. a. Segnungen, Eifer und Geweihte Waffe des Kriegspriesters, Blutwut, Berserkerlied, Gutes niederstrecken und Hand der Verderbnis, Betäubender Schlag, Tieraspekt, Verderben, Entschlossenheit, Monster herbeizaubern, Arkanes Reservoir (füllt über Nacht nur 3 + ½ Stufe nach), Mentalmagievorrat und die Fähigkeiten von Mesmerist, Okkultist, Spiritist und Formwandler — auch in Minuten und Stunden.",
+        "Mehrklassen-Figuren: jeder Vorrat steht mit Klasse und Stufe; Mönch- und Ninja-Stufen ergeben einen gemeinsamen Ki-Vorrat (wie es die Regel sagt), Betäubender Schlag zählt Stufen anderer Klassen mit.",
+        "⚡ Bereit zeigt jetzt auch gewählte Kräfte mit Tagesvorrat: die Domänenkräfte des Klerikers (auch Unterdomänen, Druiden-Bund, Heiliger Diener) und die Schulkräfte des Spezialisten-Magiers, z. B. Feuerpfeil 3 + WE oder Säurepfeil 3 + IN je Tag — sobald die Wahl unter Werte › Wahlen eingetragen ist."
+      ],
+      "en": [
+        "196 more spells count when cast: the effect brings the bonuses from the spell's own text (e.g. Shock Shield +2 AC, Disguise Self +10 Disguise, Raven's Flight fly speed 50) and the breakdown names the spell. Conditional bonuses (\"against fear\") are shown beside the number and are not added automatically.",
+        "⚡ Ready now knows the daily pools of every base class (50 more): among them the warpriest's blessings, fervor and sacred weapon, bloodrage, raging song, smite good and touch of corruption, stunning fist, animal focus, bane, resolve, summon monster, the arcane reservoir (a night's rest only adds 3 + ½ level), the phrenic pool and the mesmerist's, occultist's, spiritualist's and shifter's abilities — in minutes and hours as well.",
+        "Multiclass characters: every pool shows its class and level; monk and ninja levels make one combined ki pool (as the rule says), stunning fist counts the levels of other classes.",
+        "⚡ Ready now also shows chosen powers with a daily pool: the cleric's domain powers (subdomains, the druid's bond and the sacred servant too) and the specialist wizard's school powers, e.g. Fire Bolt 3 + Wis or Acid Dart 3 + Int per day — once the choice is recorded under Stats › Choices."
+      ]
+    },
+    "characters": {
+      "de": [],
+      "en": []
+    }
+  },
+  {
     "version": "2.2.0",
     "date": "2026-11-19",
     "vault": 52,
