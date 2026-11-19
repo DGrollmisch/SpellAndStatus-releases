@@ -1,0 +1,37 @@
+[
+  {
+    "version": "2.0.0",
+    "date": "2026-11-19",
+    "vault": 50,
+    "new": {
+      "de": [
+        "Erste signierte Version zum Weitergeben: Updates kommen ab jetzt über Einstellungen › „Nach Updates suchen“ und installieren sich über die bestehende App.",
+        "Änderungsliste in den Einstellungen; nach einem Update zeigt die App einmal, was seit deinem letzten Start neu ist.",
+        "Spielen: TP, RK, Rettungswürfe, Initiative-Board mit Gegnern, aktive Effekte, Zustände, Situationen als Schalter, „Neuer Tag“.",
+        "Zauber: Bibliothek, Vorbereiten, Zauberbücher, bekannte Zauber, Plätze, Metamagie mit Meisterschaft, Wortwirker (Worte der Macht) und wilde Magie.",
+        "Charakter: Werte mit Herleitung, Fertigkeiten, Merkmale, Stufenaufstieg mit Klassenmerkmalen, Archetypen, Prestigeklassen und Legendenstufen; Regelset je Figur.",
+        "Inventar: angelegt · getragen · verstaut, Behälter, Geldbeutel, Traglast, Werkstatt fürs Herstellen.",
+        "Werkzeuge: Würfel, Krit-Helfer, Fundstücke; Suche über alles (Zauber, Gegenstände, Talente, Klassen, Regeln, deine Figur).",
+        "Deutsch und Englisch, umschaltbar in der Kopfzeile; läuft vollständig offline."
+      ],
+      "en": [
+        "First signed build for sharing: updates now come through Settings › “Check for updates” and install over the existing app.",
+        "Change log in the settings; after an update the app shows once what is new since your last start.",
+        "Play: HP, AC, saves, initiative board with enemies, active effects, conditions, situations as toggles, “New day”.",
+        "Spells: library, preparation, spellbooks, known spells, slots, metamagic with mastery, wordcasting (Words of Power) and wild magic.",
+        "Character: stats with breakdowns, skills, features, level-up with class features, archetypes, prestige classes and mythic tiers; a rule set per character.",
+        "Inventory: worn · carried · stored, containers, purse, encumbrance, a workshop for crafting.",
+        "Tools: dice, crit helper, random finds; search across everything (spells, items, feats, classes, rules, your character).",
+        "German and English, switched in the header; runs fully offline."
+      ]
+    },
+    "characters": {
+      "de": [
+        "Tresor v50: Figuren aus älteren Ständen werden beim ersten Start automatisch umgestellt; die App legt davor eine Momentaufnahme an (Einstellungen › Backups)."
+      ],
+      "en": [
+        "Vault v50: characters from older builds are converted automatically on the first start; the app takes a snapshot first (Settings › Backups)."
+      ]
+    }
+  }
+]
